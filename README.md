@@ -13,3 +13,6 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 # cloud9
+
+* Setting up rails on Cloud9: https://gorails.com/episodes/aws-cloud9-ruby-on-rails-development
+* Heroku: https://devcenter.heroku.com/articles/getting-started-with-rails6
